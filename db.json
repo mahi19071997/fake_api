@@ -26,5 +26,17 @@
       "title":"react",
       "status":false
     }
+  ],
+
+  "employee":[
+    {
+      "id": "db10f437-c8b0-45fc-ac9c-143d9fb2b7e0",
+      "nm": "khushboo",
+      "age": "22",
+      "location": "rdrpr",
+      "salary": "3333",
+      "dept": "Sales",
+      "married": true
+    }
   ]
 }
