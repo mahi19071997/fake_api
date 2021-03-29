@@ -31,12 +31,12 @@
   "employee":[
     {
       "id": "db10f437-c8b0-45fc-ac9c-143d9fb2b7e0",
-      "nm": "khushboo",
+      "name": "mahi",
       "age": "22",
       "location": "rdrpr",
       "salary": "3333",
       "dept": "Sales",
-      "married": true
+      "married": false
     }
   ]
 }
