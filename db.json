@@ -38,5 +38,16 @@
       "dept": "Sales",
       "married": false
     }
+  ],
+  "product":[
+    {
+      "id":12,
+      "title":"Mahi",
+      "cost":"7252",
+      "image":"imgurl",
+      "category":"vegetables"
+    }
   ]
+
+  
 }
