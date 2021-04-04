@@ -49,6 +49,11 @@
     }
   ],
   "prod":[ { "name" : "SmartPhone", "price": 30, "id" : 0 }, { "name" : "Watch", "price" : 20, "id" : 1 }, { "name" : "Shirt", "price" : 50, "id" : 2 }, { "name" : "Pants", "price" : 100, "id" : 3 } ],
+  
+  
+  
+  
+  
   "cart":[{
     "id": 1,
     "product_name": "Turkey - Breast, Double",
@@ -67,7 +72,31 @@
     "image_url": "http://dummyimage.com/200x200.jpg/ff4444/ffffff",
     "description": "posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
     "price": 231
+  }],
+
+
+
+  "pictures":[{
+    "id": 1,
+    "product_name": "Nature",
+    "image_url": "https://placeimg.com/640/480/nature",
+    "description": "dictumst etiam faucibus cursus urna ut tellus nulla",
+    "price": 987
+  }, {
+    "id": 2,
+    "product_name": "Women stall",
+    "image_url": "https://placeimg.com/640/480/any/sepia",
+    "description": "pellentesque ultrices mattis odio donec vitae nisi nam ultrices",
+    "price": 763
+  }, {
+    "id": 3,
+    "product_name": "Hair color",
+    "image_url": "https://placeimg.com/640/480/people",
+    "description": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien non mi",
+    "price": 231
+    
   }]
+
 
 
   
