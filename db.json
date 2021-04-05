@@ -95,9 +95,13 @@
     "description": "ultrices erat tortor sollicitudin mi sit amet lobortis sapien non mi",
     "price": 231
     
-  }]
+  }],
 
 
-
+  "objt":{
+    "email": "mahimakkar123@gmail.com",
+    "password": "mahima",
+    "name": "Mahi Makkar"
+  }
   
 }
