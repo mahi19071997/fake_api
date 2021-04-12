@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "post": [
     {
       "id": 3
     },
@@ -12,7 +12,7 @@
       "author": "deepak"
     }
   ],
-  "comments": [
+  "comment": [
     {
       "id": 2
     }
@@ -102,6 +102,20 @@
     "email": "mahimakkar123@gmail.com",
     "password": "mahima",
     "name": "Mahi Makkar"
-  }
+  },
+
+  "users": [
+    { "id": "1", "username": "mahi", "password": "mahi" },
+    { "id": "2", "username": "mahima", "password": "mahimakkar" },
+    { "id": "3", "username": "makkarm", "password": "mahii" }
+  ],
+
+  "posts": [{ "id": 1, "post_title": "", "post_body": "", "authod_id": 3, "authod_username": "" }],
+  
+  "comments": [{ "id": "", "author_id": "", "author_name": "", "post_id": "", "comment_details": "" }]
+
+  
+
+
   
 }
