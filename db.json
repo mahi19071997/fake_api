@@ -112,7 +112,20 @@
 
   "posts": [{ "id": 1, "post_title": "", "post_body": "", "authod_id": 3, "authod_username": "" }],
   
-  "comments": [{ "id": "", "author_id": "", "author_name": "", "post_id": "", "comment_details": "" }]
+  "comments": [{ "id": "", "author_id": "", "author_name": "", "post_id": "", "comment_details": "" }],
+
+  "form-data":[
+    {
+     "name":"Mahi Makkar",
+     "age":24,
+     "address":"RA road, Ejipura",
+     "department":"IT",
+     "salary":120000,
+     "marital":true,
+     "src":"https://www.theattitudequotes.com/wp-content/uploads/2021/02/New-WhatsApp-DP-Images-For-Girl-2021-Girls-Attitude-Dp-Girls-DP-Pic-26.jpg"
+    }
+
+  ]
 
   
 
