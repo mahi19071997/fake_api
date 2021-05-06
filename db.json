@@ -113,7 +113,6 @@
   "posts": [{ "id": 1, "post_title": "", "post_body": "", "authod_id": 3, "authod_username": "" }],
   
   "comments": [{ "id": "", "author_id": "", "author_name": "", "post_id": "", "comment_details": "" }],
-
   "form-data":[
     {
      "name":"Mahi Makkar",
@@ -126,6 +125,8 @@
     }
 
   ]
+
+  
 
   
 
