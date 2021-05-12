@@ -124,6 +124,18 @@
      "src":"https://www.theattitudequotes.com/wp-content/uploads/2021/02/New-WhatsApp-DP-Images-For-Girl-2021-Girls-Attitude-Dp-Girls-DP-Pic-26.jpg"
     }
 
+  ],
+  "dtaform":[
+    {
+      "username":"mahi",
+      "age":23,
+      "email":"mahi@gmail.com",
+      "gender":"Female",
+      "isMarried":false,
+      "department":"IT",
+      "salary":300000,
+      "id":1
+  }
   ]
 
   
