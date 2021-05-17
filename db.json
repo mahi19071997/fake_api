@@ -148,7 +148,44 @@
     "description": "Engineering Life in college",
     "cast":"Aamir Khan, R Madhwan, Sharman Joshi",
     "id":1
+    },
+    {
+      "title": "Koi mil gya",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGM4ZjFkZjktMTEwMS00NWNmLWI1NTAtYTAwYWNhNzAxMjA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY1200_CR99,0,630,1200_AL_.jpg",
+    "ratings": 3,
+    "description": "Aliens",
+    "cast":"Hrithik Roshan, Prity Zinta",
+    "id":2
+    },
+
+    {
+      "title": "DDlJ",
+    "image": "https://images.outlookindia.com/public/uploads/blogsimages/sharukh_kajol_20090713_630_630.jpg",
+    "ratings": 5,
+    "description": "Love,travel",
+    "cast":"Shahrukh khan, Kajol",
+    "id":3
+    },
+
+    {
+      "title": "Radhe",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/96/Radhe_film_poster.jpg",
+    "ratings": 1,
+    "description": "Fight",
+    "cast":"Salman Khan",
+    "id":4
+    },
+
+    {
+      "title": "Pari",
+    "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/anushka-sharma-s-pari-screening-cancelled-in-the-wake-of-sridevi-s-untimely-demise-1519977073.jpg",
+    "ratings": 2,
+    "description": "horrer",
+    "cast":"Anushka Sharma",
+    "id":4
     }
+
+
   ]
 
   
