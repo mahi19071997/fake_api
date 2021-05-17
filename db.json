@@ -144,9 +144,10 @@
     {
       "title": "3 Idiots",
     "image": "https://flxt.tmsimg.com/assets/p7951929_p_v10_aa.jpg",
-    "ratings": "4",
+    "ratings": 4,
     "description": "Engineering Life",
-    "cast":"Aamir Khan, R Madhwan, Sharman Joshi"
+    "cast":"Aamir Khan, R Madhwan, Sharman Joshi",
+    "id":1
     }
   ]
 
